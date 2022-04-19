@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- for Custom text view -->
+    <declare-styleable name="TimerTextView">
+        <attr name="ttv_timeInSec" format="integer" />
+        <attr name="ttv_finishingText" format="string" />
+        <attr name="ttv_dateFormat" format="string" />
+    </declare-styleable>
+</resources>
